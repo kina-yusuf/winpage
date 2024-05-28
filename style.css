@@ -73,3 +73,19 @@ body, html {
     top: 50px;
     margin-left: 25px;
 }
+.share-area a{
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+    display: inline-block;
+    width: 30%;
+    text-decoration: none;
+    color: black;
+    font-size: 13px; 
+    margin: 1%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.share-area{
+   margin: 2%;
+}
