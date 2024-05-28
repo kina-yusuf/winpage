@@ -1,0 +1,68 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+.win-section{
+    width: 50%;
+    margin-left: 25%; 
+}
+
+.win{
+    background-color:#c9c7c7;
+    display: flex;
+    flex-direction: column;
+    padding: 10%;
+    border-radius: 10px;
+    margin:3%;
+}
+.win h2{
+    text-align: center;
+    color: green;
+    margin-top: 10px;
+}
+.win a{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.win img{
+    width: 200px;
+}
+.win span{
+    font-style: italic;
+}
+.share{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.win .share a{
+    text-decoration: none;
+}
+.win .share .wp{
+    color: green;
+}
+.win .share .facebook{
+    color: blue;
+    margin-left: 10px;
+}
+.win .share .tw{
+    color: rgb(0, 162, 216);
+    margin-left: 10px;
+}
+.win .share .inst{
+    color: rgb(239, 41, 41);
+    margin-left: 10px;
+}
+@media(max-width:768px){
+    .win-section{
+        width: 100%;
+        margin-left: 0 ;
+    }
+}
