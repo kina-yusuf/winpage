@@ -6,10 +6,6 @@ body, html {
     align-items: center;
     font-family: Arial, sans-serif;
 }
-.win-section{
-    width: 50%;
-    margin-left: 25%; 
-}
 
 .win{
     background-color:#c9c7c7;
