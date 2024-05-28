@@ -29,8 +29,10 @@ body, html {
     margin-top: 20px;
     display: flex;
 }
-.win-section img{
+.win-section .albert{
     width: 200px;
+    position: relative;
+    top: -50px;
 }
 .win span{
     font-style: italic;
@@ -64,4 +66,10 @@ body, html {
         width: 100%;
         margin-left: 0 ;
     }
+}
+.kizilinci{
+    width: 150px;
+    position: relative;
+    top: 50px;
+    margin-left: 25px;
 }
