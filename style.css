@@ -32,7 +32,7 @@ body, html {
 .win-section .albert{
     width: 200px;
     position: relative;
-    top: -50px;
+    top: -30px;
 }
 .win span{
     font-style: italic;
@@ -70,7 +70,7 @@ body, html {
 .kizilinci{
     width: 150px;
     position: relative;
-    top: 50px;
+    top: 30px;
     margin-left: 25px;
 }
 .share-area a{
@@ -82,7 +82,7 @@ body, html {
     width: 30%;
     text-decoration: none;
     color: black;
-    font-size: 13px; 
+    font-size: 12px; 
     margin: 1%;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
