@@ -1,5 +1,4 @@
 body, html {
-    height: 100%;
     margin: 0;
     display: flex;
     justify-content: center;
@@ -32,7 +31,7 @@ body, html {
 .win-section .albert{
     width: 200px;
     position: relative;
-    top: -30px;
+    top: 5px;
 }
 .win span{
     font-style: italic;
